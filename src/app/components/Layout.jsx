@@ -1,5 +1,5 @@
 import { Badge } from "./ui/badge";
-import logoImg from "figma:asset/ed2ca518a3e5afbd0023769633d655019bb193a2.png";
+import logoImg from "../../assets/ed2ca518a3e5afbd0023769633d655019bb193a2.png";
 import { useState } from "react";
 import { Outlet, NavLink, useNavigate } from "react-router";
 import { useStore } from "../lib/store";
