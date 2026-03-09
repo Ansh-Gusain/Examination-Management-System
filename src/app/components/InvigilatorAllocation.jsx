@@ -1,3 +1,4 @@
+import * as React from "react";
 import { useState, useMemo } from "react";
 import { useStore } from "../lib/store";
 import { allocateInvigilators } from "../lib/algorithms";
