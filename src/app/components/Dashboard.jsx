@@ -1,3 +1,4 @@
+import React from "react";
 import { useStore } from "../lib/store";
 import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
 import { Badge } from "./ui/badge";

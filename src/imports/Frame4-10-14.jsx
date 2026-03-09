@@ -1,3 +1,4 @@
+import React from "react";
 function Frame3() {
   return /* @__PURE__ */ React.createElement("div", { className: "content-stretch flex items-center justify-center relative shrink-0" }, /* @__PURE__ */ React.createElement("div", { className: "flex flex-col font-['Roboto:Regular','Noto_Sans_Devanagari:Regular',sans-serif] font-normal justify-center leading-[0] relative shrink-0 text-[20px] text-black whitespace-nowrap", style: { fontVariationSettings: "'wdth' 100" } }, /* @__PURE__ */ React.createElement("p", { className: "leading-[normal]" }, "\u0917\u094C\u0924\u092E \u092C\u0941\u0926\u094D\u0927 \u0935\u093F\u0936\u094D\u0935\u0935\u093F\u0926\u094D\u092F\u093E\u0932\u092F")));
 }

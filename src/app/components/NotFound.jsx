@@ -1,3 +1,4 @@
+import React from "react";
 import { Link } from "react-router";
 import { Button } from "./ui/button";
 import { AlertCircle } from "lucide-react";
