@@ -1,3 +1,4 @@
+import * as React from "react";
 import { createContext, useContext, useEffect, useState } from "react";
 const AUTH_KEY = "exam_manager_auth";
 const AuthContext = createContext(void 0);

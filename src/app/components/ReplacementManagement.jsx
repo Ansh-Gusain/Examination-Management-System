@@ -1,3 +1,4 @@
+import * as React from "react";
 import { useState } from "react";
 import { useStore } from "../lib/store";
 import { Card, CardContent } from "./ui/card";
